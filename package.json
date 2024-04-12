@@ -1,5 +1,5 @@
 {
-  "name": "@AIZ-GL/gl-ec-ui-common-component",
+  "name": "@ashishkainth/component-library",
   "version": "1.0.0",
   "description": "Custom React component library",
   "scripts": {
@@ -26,6 +26,6 @@
   ],
   "types": "dist/index.d.ts",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/gl-ec-ui-common-component"
+    "registry": "https://npm.pkg.github.com/"
   }
 }
